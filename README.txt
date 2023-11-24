@@ -15,3 +15,7 @@ Each format:
 Current Models:
 - Barbie Logo
 - Calliope Logo 
+- Triangle Part 
+- Fishhook Part
+- Bowtie Part
+- Box w/ Lid
