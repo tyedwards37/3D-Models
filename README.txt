@@ -20,3 +20,6 @@ Current Models:
 - Bowtie Part
 - Box w/ Lid
 - Two Part "Rocket"
+- Holey Roller
+- Goggles
+- "Birthday Cake"
