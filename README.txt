@@ -13,6 +13,7 @@ Each format:
 - .obj / .stl - Object file
 
 Current Models:
+- BENEDICT
 - Barbie Logo
 - Calliope Logo 
 - Triangle Part 
